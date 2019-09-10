@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Madeleine McDougall
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: History Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carleton Univeristy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Undergraduate degree from Guelph.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-Canadian History
+-Museum Spaces
+-Cultural Representation
 
 education:
   courses:
