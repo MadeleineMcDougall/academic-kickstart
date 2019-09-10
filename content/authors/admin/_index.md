@@ -21,9 +21,9 @@ organizations:
 bio: Undergraduate degree from Guelph.
 
 interests:
--Canadian History
--Museum Spaces
--Cultural Representation
+- Canadian History
+- Museum Spaces
+- Cultural Representation
 
 education:
   courses:
