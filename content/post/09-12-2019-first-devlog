@@ -1,11 +1,12 @@
 ---
-page_type = "post"
+
 title: First Devlog
 date: "2019-09-12"
 
 header:
   caption: ""
   image: ""
+  
 ---
 
 As my first devlog, I do not have a lot to report on. Only my brainstorming in terms of what I would conceptually like to do in this project. As for the format, I think I would like to do something along the lines of a scavenger hunt where users must solve riddles and puzzles to unlock geo-tagged repositories of historical information in order to discover something about the history of Ottawa. As for the actual content, I think this format would lend itself well to a murder mystery. One possibility is the assassination of Thomas D'Arcy McGee. That subject would allow the user to not only take on the role of investigator but also learn about Ottawa around the time of Confederation.
