@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Madeleine McDougall is a graduate student of Carleton University's M.A. History program. Her areas of study are decolonization, the representation of history in museum spaces, and Canadian history. She is currently employed as a teaching asisstant with the Carleton and as a Heritage Specialist with the City of Ottawa. 
+Madeleine McDougall is a graduate student of Carleton University's M.A. She is currently employed as a teaching asisstant with the Carleton and as a Heritage Specialist with the City of Ottawa. 
