@@ -13,7 +13,7 @@ This week, I did a bunch of things that aren't necessarily related to each other
 
 Digital Tinkering
 
--Digital Atlas changes through github
+Digital Atlas changes through github:
 	
   -Renamed title
 	
@@ -25,25 +25,25 @@ Digital Tinkering
 	
   -Linked Digital History class website
 
--Issues
+Issues:
 	
   -Coordinates are slightly off, in the neighborhood (literally) but just not quite there
 	
   -Linking to the DH class website isn’t working, the first letter of url is getting cut off and I don’t know why
 
 
--Personal site (This site)
+Personal site (This site):
 	
   -Disabled publications menu item
 
--Issues
+Issues:
 
   -Netlify being extremely slow, thought I had done something wrong at first
 	
   -Lots of trouble customizing social media links/contact information
 
 
--Twine
+Twine:
 	
   -Made a trial narrative to familiarize myself with the website
 	
@@ -52,7 +52,7 @@ Digital Tinkering
 
 Readings
 
--Augmented cities
+Augmented cities:
 
   -AR as a tool of reconstructing the idea of a museum and deconstructing the exclusivity of those institutions
 	
@@ -60,7 +60,7 @@ Readings
   
   -Mystery Spaces sounds like a very similar concept to what I have been thinking of for this project, more investigation needed
 
--Resistance in the materials & 5Spectra
+Resistance in the materials & 5Spectra:
 	
   -Talks about how digital humanities must be continually adapted
 	
