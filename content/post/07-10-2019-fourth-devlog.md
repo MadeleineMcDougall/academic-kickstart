@@ -19,7 +19,7 @@ Aris
 -Con: No way to test it however, ios system, I have a mac but no iphone
 
 
-Much of the work I did this week was taking stock of what skills and technologies have learned so far in this course, rocnicling them with my goals for the project, and then organizing them to chart out my next steps. This was all done in preparation of the first oral report due in class this week. I have included below a summary of that report.
+Much of the work I did this week was taking stock of what skills and technologies have learned so far in this course, reconciling them with my goals for the project, and then organizing them to chart out my next steps. This was all done in preparation of the first oral report due in class this week. I have included below a summary of that report.
 
 Goal of project:
 Have player question whether Canada is actually the great of a country
