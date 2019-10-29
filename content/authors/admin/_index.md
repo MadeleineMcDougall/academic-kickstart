@@ -32,7 +32,7 @@ education:
             2019-2021
   - course: B.A. Honours History
             University of Guelph
-            2014-2018, Graduated wth Distinction
+            2014-2018, Graduated with Distinction
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "madeleinemcdougall@cmail.carleton.ca"
