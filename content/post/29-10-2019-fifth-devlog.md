@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
   
-  ---
+---
 
 
 A New Idea
