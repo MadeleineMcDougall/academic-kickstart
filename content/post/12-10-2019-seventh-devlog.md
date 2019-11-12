@@ -17,4 +17,4 @@ I hope that the encyclopedia entry on work camps will give the users the context
 
 I have chosen all of my sites for the walk. I wanted all my sites to be relevant to their respective walks, but I also didn’t want them to be too obvious. For most of the sites, I chose to seek out resources that exist in downtown Ottawa for people affected by the issues championed in each walk. For example, I have placed the site for the We Demand demonstration just outside a resource centre for LGBTQ+ people and the On to Ottawa Trek is placed outside the Ottawa Mission. Others, however, just make use of the landscape of downtown. For example, the Climate March is on the corner of Confederation Park, which is along the route the marchers took but is also next to a green space. 
 
-My next steps will be to prepare to present my paradata next class, finish my research for the rest of the walks, and test out the software.
+My next steps will be to prepare to present my paradata next class, finish my research for the rest of the walks, and test out the software. I also need to figure out why my devlogs keep appearing out of chronological order.
