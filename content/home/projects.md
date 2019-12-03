@@ -75,5 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Ottawa Walks
+Now available on ARIS, searchable under the name "Ottawa Walks"
+
 Coming Soon: Project Paradata
 
