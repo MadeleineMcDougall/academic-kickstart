@@ -1,7 +1,7 @@
 ---
 
 title: Eighth Devlog
-date: "2019-10-18"
+date: "2019-11-18"
 
 header:
   caption: ""
