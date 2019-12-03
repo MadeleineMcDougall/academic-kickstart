@@ -76,7 +76,10 @@ subtitle = ""
 +++
 
 Ottawa Walks
-Now available on ARIS, searchable under the name "Ottawa Walks"
+
+Now available on ARIS
+
+
 
 Coming Soon: Project Paradata
 
