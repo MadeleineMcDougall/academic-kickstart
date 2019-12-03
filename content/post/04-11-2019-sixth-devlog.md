@@ -1,7 +1,7 @@
 ---
 
 title: Sixth Devlog
-date: "2019-10-05"
+date: "2019-11-04"
 
 header:
   caption: ""
