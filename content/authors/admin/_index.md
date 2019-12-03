@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-Madeleine McDougall is a graduate student in Carleton University's History M.A. program. She is currently employed as a Teaching Asisstant with the Carleton and as a Heritage Specialist with the City of Ottawa. 
+Madeleine McDougall is a graduate student in Carleton University's History M.A. program. She is currently employed as a Teaching Asisstant with Carleton and as a Heritage Specialist with the City of Ottawa. 
