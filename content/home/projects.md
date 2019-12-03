@@ -79,7 +79,5 @@ Ottawa Walks
 
 Now available on ARIS
 
-
-
 Coming Soon: Project Paradata
 
