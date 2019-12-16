@@ -81,7 +81,7 @@ Project Paradata:
 
 Introduction
 
-This project will be using Aris to lead users on a journey through downtown Ottawa to Parliament while exploring the history of political walks, marches, and runs in Canada. My process has largely been one of trial and error. I started out with a basic idea of what I wanted the user to experience: a progressive exploration of downtown Ottawa through repositories of historical information that allows the user to discover hidden narratives. My project has undergone a lot of change over the course of this semester. It did not start out as an exploration of political walks in Ottawa. Originally, I wanted to achieve this through a game centering on the assassination of D’Arcy McGee.
+This project will be using Aris to lead users on a journey through downtown Ottawa to Parliament while exploring the history of political walks in Ottawa. My process has largely been one of trial and error. I started out with a basic idea of what I wanted the user to experience: a progressive exploration of downtown Ottawa through repositories of historical information that allows the user to discover hidden narratives. My project has undergone a lot of change over the course of this semester. It did not start out as an exploration of political walks in Ottawa. Originally, I wanted to achieve this through a game centering on the assassination of D’Arcy McGee.
 
 Concept
 
